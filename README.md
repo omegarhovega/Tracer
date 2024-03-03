@@ -1,7 +1,7 @@
-# Tracer
-Excel Add-in for fast and clear trace of formula dependents and precedents
+# :beginner: Tracer
+Excel Add-in for fast and clear trace of formula dependents and precedents :rocket:
 
-# Installation
+# :notebook_with_decorative_cover: Installation
 - Download and place TraceFormulas.xlam file in C:\Users\Admin\AppData\Roaming\Microsoft\AddIns or equivalent folder
 - In Excel, select Options > Add-ins and navigate to Excel Add-ins using the drop-down menu and Go... button at the bottom
 - Put a check next to Traceformulas in the appearing Add-ins window, then click OK to close
