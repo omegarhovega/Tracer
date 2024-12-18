@@ -1,6 +1,6 @@
 # :beginner: Tracer
 Excel Add-in for fast and clear trace of formula dependents and precedents :rocket:
-<p><img src='Tracer.png' width='425'></p>
+<p><img src='Tracer.png' width='873'></p>
 
 # :notebook_with_decorative_cover: Installation
 - Download and place TraceFormulas.xlam file in C:\Users\Admin\AppData\Roaming\Microsoft\AddIns or equivalent folder
